@@ -1,0 +1,73 @@
+Política de Privacidade – Butterfly
+
+Última atualização: 02 de junho de 2026
+
+Esta Política de Privacidade descreve como o bot Butterfly coleta, utiliza, armazena e protege informações dos usuários e servidores que utilizam seus serviços no Discord.
+
+1. Informações Coletadas
+
+Para fornecer suas funcionalidades, o Butterfly pode coletar e armazenar:
+
+IDs de usuários do Discord.
+IDs de servidores (guilds).
+IDs de canais.
+IDs de cargos.
+Configurações definidas pelos administradores do servidor.
+Dados relacionados à utilização de comandos e recursos do bot.
+
+O Butterfly não coleta senhas, dados bancários ou informações confidenciais além das disponibilizadas pela plataforma Discord.
+
+2. Finalidade da Coleta
+
+As informações coletadas são utilizadas exclusivamente para:
+
+Executar corretamente os comandos do bot.
+Armazenar configurações dos servidores.
+Melhorar funcionalidades e desempenho.
+Identificar e corrigir erros técnicos.
+Garantir a segurança e integridade do serviço.
+3. Compartilhamento de Dados
+
+O Butterfly não vende, aluga ou compartilha informações dos usuários com terceiros para fins comerciais.
+
+Os dados poderão ser divulgados apenas quando:
+
+Exigido por lei ou ordem judicial.
+Necessário para proteger a segurança do serviço.
+Necessário para investigar abusos, fraudes ou violações destes termos.
+4. Armazenamento e Segurança
+
+Os dados coletados são armazenados em sistemas protegidos por medidas razoáveis de segurança.
+
+Apesar dos esforços para proteger as informações, nenhum sistema é totalmente imune a falhas ou acessos não autorizados.
+
+5. Retenção de Dados
+
+Os dados serão mantidos apenas pelo tempo necessário para o funcionamento do Butterfly ou cumprimento de obrigações legais.
+
+Os desenvolvedores podem remover informações inativas ou desnecessárias periodicamente.
+
+6. Direitos dos Usuários
+
+Os usuários podem solicitar:
+
+Informações sobre os dados armazenados.
+Correção de dados incorretos.
+Exclusão de dados, quando tecnicamente possível e legalmente permitida.
+7. Serviços de Terceiros
+
+O Butterfly opera através da plataforma Discord e pode depender de serviços externos para hospedagem, banco de dados e monitoramento.
+
+O uso desses serviços também está sujeito às respectivas políticas de privacidade.
+
+8. Alterações nesta Política
+
+Esta Política de Privacidade poderá ser modificada a qualquer momento para refletir mudanças no serviço ou exigências legais.
+
+A versão mais recente estará sempre disponível pelos canais oficiais do Butterfly.
+
+9. Contato
+
+Para dúvidas, solicitações ou questões relacionadas à privacidade dos dados, entre em contato com a equipe responsável pelo Butterfly através dos canais oficiais de suporte.
+
+Ao utilizar o Butterfly, você concorda com esta Política de Privacidade e com o tratamento dos dados conforme descrito neste documento. 🦋
